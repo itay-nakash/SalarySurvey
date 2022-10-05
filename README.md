@@ -33,4 +33,5 @@ Talk with me if you are having any trouble trying to contribute!
 ## Contributors
 
 Itay Nakash: https://www.linkedin.com/in/itay-nakash-9911811b9/
+
 -- future contributors who might join :) --
