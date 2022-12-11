@@ -24,7 +24,7 @@ or open an issue.
 
 ## Contribute:
 
-This is a great project to contribute to! mainly because it's fair and simple, and because I promise I would do my best to help you participant in it :)
+This is a great project to contribute to! mainly because it's fair and simple, and because I promise I would do my best to help you participate in it :)
 You can find some issues I opened, a lot of them are marked as 'Good First Issue' and would be great for a student who wants to try and contribute for the first time
 for an open-source project :)
 Talk with me if you are having any trouble trying to contribute! 
